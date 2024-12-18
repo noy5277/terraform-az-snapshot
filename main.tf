@@ -1,4 +1,3 @@
-#Snapshot creation / Murali Thangavel 
 
 terraform {
   required_providers {
